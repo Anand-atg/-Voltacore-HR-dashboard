@@ -1,6 +1,6 @@
-# -Zenvolt-HR-dashboard
+# -Zenvolt-
 
-# ⚡ Zenvolt Mobility Pvt. Ltd.
+# ⚡ About Zenvolt Mobility Pvt. Ltd.
 
 _"Zen" for balance/sustainability + "Volt" – calm, conscious innovation_
 

@@ -9,88 +9,73 @@ Zenvolt Mobility Pvt. Ltd. is a high-growth startup headquartered in **Bengaluru
 As India's EV adoption accelerates, Zenvolt is deploying a new line of **smart, high-power, and safety-compliant EV charging stations** designed for **two-wheelers to commercial fleets**. Alongside this, the company is launching an **AI-powered monitoring and optimization platform** to help both users and operators get more from every charge.
 
 ---
+# 🚀 Problem Statement – HR Dashboard
 
-## 🔧 Core Expertise
+**Zenvolt Innovations** is a rapidly growing Indian startup specializing in **battery technologies and smart electric mobility solutions**. With a current workforce of **1,500 employees**, the company is preparing to launch a **flagship EV battery platform** in the next quarter.
 
-- 🔋 Smart lithium-ion battery packs  
-- ⚡ EV power and thermal management systems  
-- 🏭 Battery-as-a-Service (BaaS) solutions for commercial fleets  
-- 🧠 AI-powered charging station monitoring platforms  
+To support this major project, Zenvolt aims to expand its workforce to **2,500 employees**. The employee base includes **Sales Executives, Research Scientists, Technicians, Managers, and Architects** across departments like **R&D, Manufacturing, Sales, and HR**.
 
----
 
-## 📈 Key Achievements
+> 📈 **Workforce Goal:** Scale from **1,500 → 2,500** employees to support the upcoming EV project launch
 
-- 🚗 Sold **18,000 EV battery units** in FY 2024–25 — a **60% YoY growth**
-- 🌐 Deployed solutions across **10+ Tier-1 and Tier-2 cities**
-- 📡 Launched **India’s first AI-powered charging station monitoring app** for predictive maintenance and energy optimization
 
----
-
-## 🤝 Strategic Partnerships
-
-- 🤝 Partnered with **Olectra Greentech** and **Tata Power** to co-develop smart EV charging infrastructure  
-- 🤝 Signed MoU with **IIT Madras** for R&D in battery chemistry and thermal safety  
-- 🤝 Integrated into major EV fleets including **LogiGreen**, **BluSmart**, and more  
+### 🧩 HR Challenges:
+As hiring accelerates, the HR team is facing challenges in:
+- Identifying employees eligible for promotion or nearing retirement  
+- Understanding workforce distribution across job levels and roles  
+- Monitoring attrition risk, satisfaction levels, and overtime  
+- Making data-driven decisions for succession planning and team structure optimization  
 
 ---
 
-## 🔌 What We Do: EV Charging Infrastructure
+# 📊 Goal of the Dashboard
 
-Zenvolt’s new AI-powered charging station ecosystem includes:
+To address these challenges, a comprehensive **HR Dashboard** was developed using **Power BI** to centralize key HR metrics and support strategic decision-making.
 
-### 1. Real-Time Monitoring
-- Track live port status (active/idle/offline)  
-- Monitor charging speed, energy output, faults, and surges  
-
-### 2. AI-Driven Predictive Maintenance
-- Detect early signs of station wear or failure  
-- Automate alerts and maintenance schedules  
-
-### 3. Smart Dashboards
-- EV users can locate stations, reserve slots, and track progress  
-- Operators get performance analytics and error diagnostics  
-
-### 4. Smart Energy Optimization
-- Balance power loads intelligently  
-- Reduce peak-hour stress and manage distribution efficiently  
+### 🎯 Dashboard Objectives:
+- Provide a **360° view** of workforce demographics, job roles, and tenure  
+- Identify employees **due for promotion or retirement** based on role, age, and performance  
+- Track **employee satisfaction and work-life balance** to mitigate attrition risks  
+- Visualize **departmental and job level distribution** for succession and capacity planning  
+- Enable **data-driven HR strategies** for hiring, retention, and internal mobility  
 
 ---
 
-## ✅ Key Benefits
+# 🔍 Key Findings (Based on the Dashboard)
 
-| Stakeholder         | Value Delivered                                                      |
-|---------------------|-----------------------------------------------------------------------|
-| **EV Drivers**       | Easily find functional stations, avoid downtime, charge efficiently |
-| **Station Operators**| Reduce failures, lower maintenance cost, maximize uptime             |
-| **City Planners**    | Analyze demand hotspots and optimize infrastructure planning         |
+### 👥 Workforce Distribution:
+- Total employees: **1,470**  
+- Gender ratio: **60% male**, **40% female**  
+- Most employees are at **Job Levels 1 and 2** — junior-heavy workforce  
 
----
+### 📈 Promotion & Retirement Insights:
+- **72 employees** (4.9%) are **eligible for promotion**  
+- **117 employees** (8%) are **due for retirement/retrenchment**  
 
-## 🚗 Real-World Use Case
+### 📍 Tenure & Commute:
+- Majority have **6–10 years of experience** — strong candidates for advancement  
+- **16% live far** from office — could impact **performance or satisfaction**
 
-Just like Google Maps shows live traffic, Zenvolt’s app provides:
+### 😊 Satisfaction & Risk:
+- **569 employees** report **high job satisfaction**  
+- However, **~40% are medium or low** in satisfaction  
+- Notable **overtime trends** could signal burnout or job involvement risks  
 
-- 🔋 Station A – 2/4 ports in use – ETA: 5 mins  
-- ⚠️ Station B – Under maintenance  
-- ✅ Recommendation: Use Station C (closer, high-speed, no queue)
-
----
-
-## 🔭 Vision Statement
-
-> _"To revolutionize sustainable mobility by becoming a global leader in advanced battery technology and electric vehicle innovation."_
-
----
-
-## 🎯 Mission Statement
-
-> _"At Zenvolt Innovations, we are committed to powering the future of mobility through cutting-edge battery systems, a passion for clean energy, and a culture that values innovation, collaboration, and people-first growth. Our mission is to accelerate the transition to sustainable transportation while empowering our workforce to drive change and create meaningful impact."_  
+### 🏢 Departmental Hotspots:
+- **R&D** has the **highest promotion and retirement overlap** — may need restructuring  
+- **Sales** is stable but requires **turnover monitoring**
 
 ---
 
-## 🌱 Our Future
+# 📌 Next Steps
 
-To support its upcoming **flagship product launch**, Zenvolt is scaling its workforce from **1,500 to 2,500 employees**. With a strong **HR-first approach** and an AI-driven operational backbone, Zenvolt is building a **resilient, eco-conscious tech organization** ready to lead India’s electric mobility transformation.
+Based on these insights, we recommend:
+
+- Use the dashboard in **monthly HR review meetings**  
+- Set **alerts** for promotion/retirement thresholds  
+- Feed data into **talent development programs**  
+- Recommend **remote work/relocation benefits** for distant employees  
+- Run **engagement surveys** for low-satisfaction departments  
 
 ---
+
